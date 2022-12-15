@@ -1,0 +1,25 @@
+Benvingut al repositori de BOTIGA
+
+1 aquesta aplicació utilitza bdd: 
+    - l'aplicació utilitza el driver mysqli per connectar-se a la bdd
+    - podeu emprar les credencials que volgueu
+    - teniu copia de l'esquema de bdd en el fitxer esquema.sql
+    - l'aplicació agafa les credencials del fitxer config.php, per no haver de compartir
+       les credencials aquest fitxer està exclos del seguiment de git per .gitignore. No obstant
+       teniu un fitxer de exemple config.php.sample
+2. les imatges de l'aplicació no estan amb el codi del repositori, les teniu a al servidor 
+     de 10.100.78.215/examen/img
+3. aquesta aplicació utilitza un sistema de rutes (gestionat per route.php). Però el responsable 
+     del projecte s'ha oblidat de compartir la configuració per enviar totes les peticions al 
+     sistema de rutes. (per provar l'aplicació sense el sistema de rutes teniu el fitxer 
+     llista.php)
+
+
+
+
+
+
+
+
+   
+
