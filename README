@@ -10,6 +10,7 @@ Benvingut al repositori de BOTIGA
 2. les imatges de l'aplicació no estan amb el codi del repositori, les teniu a al servidor 10.15.0.215/examen/img.tar
 3. aquesta aplicació utilitza un sistema de rutes (gestionat per route.php). La mateixa aplicació ja porta la configuració de Apache per enviar totes les peticions al 
      sistema de rutes, però heu de fer els canvis necessaris per tal que el sistema agafi aquesta configuració. 
+     Dins la part publica (part visible pels usuaris), unicament hi ha el sistema de rutes i el contigut pubic (imatges, css, js, etc)
      (podeu provar l'aplicació sense el sistema de rutes teniu el fitxer llista.php)
 
 
